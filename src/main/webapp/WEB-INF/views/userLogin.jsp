@@ -14,7 +14,7 @@
 		</div>
 		
 		<div>
-		<input type="submit" value="submit" >
+		<input type="submit" style="margin-left:2%"value="submit" >
 		</div>
 	</form:form>
 </body>

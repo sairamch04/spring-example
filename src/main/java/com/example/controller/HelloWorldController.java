@@ -35,7 +35,6 @@ public class HelloWorldController {
 	
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String helloWorld(Model model){
-		model.addAttribute("message", "Hello world! ");
 		return "helloworld";		
 	}
 	
